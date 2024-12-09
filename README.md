@@ -6,7 +6,7 @@ _word here(italic)_
 word here(normal)
 ~~word here~~(cross out)
 # first class title
-## secodn class title
+## second class title
 ### third class title
 #### fourth class title
 ##### fifth class title
@@ -14,14 +14,14 @@ word here(normal)
 **same as bold word** 
 also first class title
 ==============
-also secodn calss title
+also second class title
 ------------
 
 
-![this is a picture(upload to notion-error)](/img/picture.png "title")
-![this is a picture from web](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgb.123rf.com%2F&psig=AOvVaw2A5XX2tXCzwnY0UnCKPDUP&ust=1733806667992000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjW96XzmYoDFQAAAAAdAAAAABAE)
-![this is also a picture from web](http://pic.downcc.com/upload2015-9/2015923174024.png)
-<tett8107@gmail.com (this can make weblink)>
+![this is a picture(upload to notion-error)](/img/picture.png "title")  
+![this is a picture from web](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgb.123rf.com%2F&psig=AOvVaw2A5XX2tXCzwnY0UnCKPDUP&ust=1733806667992000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjW96XzmYoDFQAAAAAdAAAAABAE)  
+![this is also a picture from web](http://pic.downcc.com/upload2015-9/2015923174024.png)  
+<tett8107@gmail.com (this can make weblink)>  
 tett8107@gmail.com (this can also make weblink)
 ***
 ---
@@ -60,10 +60,20 @@ next next line
 1. list of num
 2. word
 
-- 1. compound list(not working)
+- 1. compound list(not working or working in github)
+  2. word
+ 
+     
 ![](https://i-blog.csdnimg.cn/blog_migrate/d0033eaa199e6a3d54a139fa27d74c61.png)
 - # heading list
 list work with other md grammers
 jump into [Start]{#index}
-this is $this is equation \alpha$
-$$this is equation \beta$$
+this is $\alpha+\beta=\lambda$  
+$$\alpha +\beta=\lambda$$
+
+
+# make a flow chart?
+# todo list
+- [] undo 1
+-[x] done 1
+
