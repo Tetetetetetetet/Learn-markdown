@@ -65,3 +65,5 @@ next next line
 - # heading list
 list work with other md grammers
 jump into [Start]{#index}
+this is $this is equation \alpha$
+$$this is equation \beta$$
